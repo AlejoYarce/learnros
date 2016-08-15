@@ -4,7 +4,7 @@ In this repo, We want to share the basic steps for users that want to getting st
 
 #Instalation
 
-For this project, I installed Ubuntu Sever 14.04 on my local machine. Here I share the steps that I followed:
+For this project, We installed Ubuntu Sever 14.04 on our local machine. Here We share the steps that We followed:
 
 Create a USB Boot with Ubuntu Server, following this steps on MAC:
 
